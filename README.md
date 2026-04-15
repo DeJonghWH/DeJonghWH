@@ -16,16 +16,28 @@ Computer Science and Mathematics student at St. Ambrose University with a strong
 
 ## Featured Projects
 ### Corn CNN Project
-CNN-based crop disease classification project developed for the PI515 AI Challenge. Focused on image-based plant disease detection and practical model deployment.
+CNN-based crop disease classification system built for the PI515 AI Challenge (Top 8 finalist).  
+- Developed and trained convolutional neural networks using PyTorch  
+- Built an end-to-end pipeline for image classification and evaluation  
+- Focused on practical deployment and real-world agricultural applications  
 
 ### OS Job Scheduler
-Operating systems-inspired job scheduling simulator exploring workload execution, runner design, and scheduling behavior.
+Operating systems-inspired job scheduling simulator.  
+- Designed workload execution models and scheduling strategies  
+- Implemented job lifecycle management and runner abstractions  
+- Explores concurrency, execution order, and system behavior  
 
 ### Website
-Full-stack website project built for a real-world use case, combining frontend design and backend functionality.
+Full-stack web application built for a real-world client use case.  
+- Developed frontend and backend components  
+- Implemented interactive UI and functional backend logic  
+- Deployed and maintained in a live environment for several months  
 
 ### Blackjack
-A game project demonstrating object-oriented design, application structure, and interactive software development.
+Object-oriented game implementation.  
+- Designed modular class-based architecture  
+- Implemented game logic and user interaction  
+- Demonstrates clean software design principles  
 
 ## Tech Stack
 **Languages:** Python, Java, JavaScript, HTML/CSS, Object Pascal  
