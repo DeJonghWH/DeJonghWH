@@ -1,6 +1,6 @@
 # Hi, I'm Walter de Jongh
 
-Computer Science and Mathematics student at St. Ambrose University with a strong interest in deep learning, bioinformatics and scientific computing. My work focuses on building practical software systems and applying AI to research problems in biology and agriculture.
+I’m a Computer Science and Mathematics student at St. Ambrose University focused on machine learning, deep learning, and software engineering. My work includes AI research in protein interaction prediction, a CNN-based crop disease classifier (Top 8 finalist in Iowa’s PI515 AI Challenge), and software systems ranging from operating system simulations to full-stack web applications.
 
 ## About Me
 - Double major in **Computer Science** and **Mathematics**
